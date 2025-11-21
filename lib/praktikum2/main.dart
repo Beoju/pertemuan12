@@ -6,8 +6,8 @@ void main(){
   // Object Dart ke JSON
   User user = User(
     id: 1,
-    name: 'Fallujah',
-    email: 'fallujah@gmail.com',
+    name: 'Adyuta Raksa R',
+    email: 'adyutaraksa@gmail.com',
     createdAt: DateTime.now(),
   );
 
